@@ -5,4 +5,7 @@ often used by the code
 这样对我自己代码的习惯养成也是有一定帮助：
 
 ToolbyMysql.py
-  该脚本是用来对Mysql进行操作的处理，内置查询、插入、更新、删除。
+  该code是用来对Mysql进行操作的处理，内置查询、插入、更新、删除。
+
+mssql.py
+  该code是对sqlsever进行操作处理的封装。
